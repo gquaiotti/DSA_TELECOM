@@ -1,3 +1,12 @@
+# Models
+*.obj
+
+# dataset
+/dataset/*
+
+# doc
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
